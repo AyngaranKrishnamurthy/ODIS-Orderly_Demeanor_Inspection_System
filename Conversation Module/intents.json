@@ -1,0 +1,292 @@
+{"intents": [
+  {"tag": "greeting",
+    "patterns": ["sad"],
+
+
+    "responses": ["Emotion predicted -sad.Intiating sad model conversation"],
+    "context_set": ""
+  },
+  {"tag": "sad",
+    "patterns": ["I had a bad day.","I have some bad intention"],
+    "responses": ["what happend?"],
+    "context_set": ""
+  },
+  {"tag": "sad1",
+    "patterns": ["My Teacher scolded me.","My Teacher Shouted me"],
+    "responses": ["Why did the teacher scolded you?"],
+    "context_set": ""
+  },
+  {"tag": "sad2",
+    "patterns": ["I forgot to complete the assignment ."],
+    "responses": ["What is the assignment ?"],
+    "context_set": ""
+  },
+  {"tag": "sad3",
+    "patterns": ["An essay on Global warming."],
+    "responses": ["May I help?","May i Assist you?"],
+    "context_set": ""
+  },
+  {"tag": "sad4",
+    "patterns": ["Yes,You can assist me!"],
+    "responses": ["There are many references available in internet.","And  i will be step by step procedure to tell"],
+    "context_set": ""
+  },
+  {"tag": "sad5",
+    "patterns": ["can you list out some websites?"],
+    "responses": ["Wikipedia , quora, live science.These are popular websites."],
+    "context_set": ""
+  },
+  {"tag": "sad6",
+    "patterns": ["But I keep on losing the track of assignment schedule."],
+    "responses": ["For that you can make a schedule stick to the wall to keep the track."],
+    "context_set": ""
+  },
+  {"tag": "sad7",
+    "patterns": ["My manager scolded me."],
+    "responses": ["Why your manager scolded you?"],
+    "context_set": ""
+  },
+  {"tag": "sad8",
+    "patterns": ["I was late to the office."],
+    "responses": ["Why you were late?"],
+    "context_set": ""
+  },
+  {"tag": "sad9",
+    "patterns": ["because of the heavy traffic in the morning."],
+    "responses": ["Which way you used?"],
+    "context_set": ""
+  },
+  {"tag": "sad10",
+    "patterns": ["I took the main road."],
+    "responses": ["May I give a suggestion?"],
+    "context_set": ""
+  },
+  {"tag": "sad11",
+    "patterns": ["yes"],
+    "responses": ["You can use google maps to find the best route to office."],
+    "context_set": ""
+  },
+  {"tag": "sad12",
+    "patterns": ["Some other suggestion?"],
+    "responses": ["You can use other means of transportation like train."],
+    "context_set": ""
+  },
+  {"tag": "sad13",
+    "patterns": ["But there is no train stop in our locality."],
+    "responses": ["You can use cycle or bike to reach station."],
+    "context_set": ""
+  },
+  {"tag": "sad14",
+    "patterns": ["I lost the chess match today."],
+    "responses": ["You can win next time. Nothing to worry."],
+    "context_set": ""
+  },
+  {"tag": "sad15",
+    "patterns": ["This match is very important."],
+    "responses": ["Why it is so important?"],
+    "context_set": ""
+  },
+  {"tag": "sad16",
+    "patterns": ["It is the semi finals."],
+    "responses": ["May be you can play next tournament."],
+    "context_set": ""
+  },
+  {"tag": "sad17",
+    "patterns": ["Next tournament is far away from this month."],
+    "responses": ["No problem. You can spend this time in a useful way."],
+    "context_set": ""
+  },
+  {"tag": "sad18",
+    "patterns": ["How?"],
+    "responses": ["You can concentrate on your studies and learn new things."],
+    "context_set": ""
+  },
+  {"tag": "sad19",
+    "patterns": ["But I have no interest in studying."],
+    "responses": ["Then you can develop other useful skills "],
+    "context_set": ""
+  },
+  {"tag": "sad20",
+    "patterns": ["can you suggest?"],
+    "responses": ["Skills in communication ,organizing are very much useful."],
+    "context_set": ""
+  },
+  {"tag": "sad21",
+    "patterns": ["My mother scolded me."],
+    "responses": ["Why did your mother scolded you?"],
+    "context_set": ""
+  },
+  {"tag": "sad22",
+    "patterns": ["I have failed in Mathematics examination."],
+    "responses": ["It is nothing to worry."],
+    "context_set": ""
+  },
+  {"tag": "sad23",
+    "patterns": ["My grades will become low."],
+    "responses": ["You can do well in upcoming exams."],
+    "context_set": ""
+  },
+  {"tag": "sad24",
+    "patterns": ["Upcoming exams are so difficult to score well."],
+    "responses": ["Why is that?"],
+    "context_set": ""
+  },
+  {"tag": "sad25",
+    "patterns": ["Because time is very short and need to study more."],
+    "responses": ["May I suggest a way ?"],
+    "context_set": ""
+  },
+  {"tag": "sad26",
+    "patterns": ["yeah,i want suggestion"],
+    "responses": ["You can schedule it as daily task and complete accordingly."],
+    "context_set": ""
+  },
+  {"tag": "sad27",
+    "patterns": ["What if the contents are big?"],
+    "responses": ["You can  refer in internet to make it easy."],
+    "context_set": ""
+  },
+  {"tag": "goodbye",
+    "patterns": ["Thanks","Thanks For Valuable Suggestions"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+    "context_set": ""
+  },
+  {"tag": "surprise",
+    "patterns": ["surprise"],
+    "responses": ["Emotion Predicted - surprise.Initiating surprise model conversation"],
+    "context_set": ""
+  },
+  {"tag": "surprise1",
+    "patterns": ["yeah,i look surprised today some about"],
+    "responses": ["I am excited to know about it? Will You share it with me"],
+    "context_set": ""
+  },
+  {"tag": "surprise2",
+    "patterns": ["yes,for sure"],
+    "responses": ["I am Listening!"],
+    "context_set": ""
+  },
+  {"tag": "surprise3",
+    "patterns": ["Today my colleagues have arranged a surprise Birthday Party.."],
+    "responses": ["How Exciting!Firstly Happy Birthday.."],
+    "context_set": ""
+  },
+  {"tag": "surprise4",
+    "patterns": ["Thank you for asking about party"],
+    "responses": ["So did you enjoy it?"],
+    "context_set": ""
+  },
+  {"tag": "surprise5",
+    "patterns": ["Yes,I was blown away by the way they arranged it>There were ally friends from child hood.It was great"],
+    "responses": ["Good to hear.Can I know the person behind it?"],
+    "context_set": ""
+  },
+  {"tag": "surprise6",
+    "patterns": ["It was my dear friend amy"],
+    "responses": ["May i suggest you to remember her birthday and surprise her the same"],
+    "context_set": ""
+  },
+  {"tag": "surprise7",
+    "patterns": ["Great Idea"],
+    "responses": ["I hope you maintain that surprise to the rest of the day and happy birthday once again"],
+    "context_set": ""
+  },
+  {"tag": "surprise8",
+    "patterns": ["Thank you and i will rest youfor and i feel happy that i shared this with you"],
+    "responses": ["The feeling is mutual..Have a great day ahead"],
+    "context_set": ""
+  },
+  {"tag": "neutral",
+    "patterns": ["calm"],
+    "responses": ["Emotion predicted-calm,intiated the neutral model conversation"],
+    "context_set": ""
+  },
+  {"tag": "neutral1",
+    "patterns": ["calmness"],
+    "responses": ["You look calm and composed today.Anything new today!"],
+    "context_set": ""
+  },
+  {"tag": "neutral2",
+    "patterns": ["I am peacefultoday.It was a good start to my day"],
+    "responses": ["good to hear.Hope your day goes the same"],
+    "context_set": ""
+  },
+  {"tag": "neutral3",
+    "patterns": ["Thank you for hope that"],
+    "responses": ["Hava a nice day"],
+    "context_set": ""
+  },
+  {"tag": "happy",
+    "patterns": ["Happy"],
+    "responses": ["Emotion Predicted-happy,intiated the Happy model conversation"],
+    "context_set": ""
+  },
+  {"tag": "happy1",
+    "patterns": ["im looking fine today"],
+    "responses": ["how was your day?"],
+    "context_set": ""
+  },
+  {"tag": "happy2",
+    "patterns": ["It was awesome"],
+    "responses": ["why you look so happy?"],
+    "context_set": ""
+  },
+  {"tag": "happy3",
+    "patterns": ["i got promotion in my office"],
+    "responses": ["Congratulations for your promotion"],
+    "context_set": ""
+  },
+  {"tag": "happy4",
+    "patterns": ["Thanks for congrats"],
+    "responses": ["It is the result of your hard work"],
+    "context_set": ""
+  },
+  {"tag": "happy5",
+    "patterns": ["Yes and there are more benefits with promotion"],
+    "responses": ["what are the benefits"],
+    "context_set": ""
+  },
+  {"tag": "happy6",
+    "patterns": ["My salary is doubled"],
+    "responses": ["That is wonderful"],
+    "context_set": ""
+  },
+  {"tag": "happy7",
+    "patterns": ["Seperate office room for me alone"],
+    "responses": ["wow that is nice to hear"],
+    "context_set": ""
+  },
+  {"tag": "happy8",
+    "patterns": ["There is also an interesting record made by me"],
+    "responses": ["What is that?"],
+    "context_set": ""
+  },
+  {"tag": "happy9",
+    "patterns": ["I am the youngest person to be promoted as a manager"],
+    "responses": ["Wow,it is definitely a record"],
+    "context_set": ""
+  },
+  {"tag": "happy10",
+    "patterns": ["All my hard work not gone waste"],
+    "responses": ["Hard work never fails"],
+    "context_set": ""
+  },
+  {"tag": "happy11",
+    "patterns": ["Thats true"],
+    "responses": ["Once again Congratualtions for you promotion"],
+    "context_set": ""
+  },
+  {"tag": "happy12",
+    "patterns": ["thanks again"],
+    "responses": ["wishes to get more successes"],
+    "context_set": ""
+  },
+  {"tag": "happy13",
+    "patterns": ["Thanks i will keep it up"],
+    "responses": ["Super,have a nice day"],
+    "context_set": ""
+  }
+
+  
+]
+}
