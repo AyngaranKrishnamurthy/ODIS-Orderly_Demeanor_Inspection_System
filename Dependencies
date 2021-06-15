@@ -1,0 +1,17 @@
+pip install opencv-python  
+pip install tensorflow   
+pip install numpy    
+pip install pandas    
+pip install keras   
+pip install adam   
+pip install kwargs    
+pip install cinit  
+pip install audio
+pip install SpeechRecognition
+pip install pickle5
+pip install nltk
+pip install lemminflect
+pip install gTTS
+
+
+Download Training Dataset Here : https://drive.google.com/file/d/1AdEOVxmC9oNAAXgpKyId0Jgd-bkNWExb/view?usp=sharing
