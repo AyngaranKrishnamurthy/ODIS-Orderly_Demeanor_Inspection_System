@@ -67,3 +67,6 @@ pip install gTTS
 NLTK for training module,lemminflect is wordlemmatizer to specific the word to present the response and tensorflow is machine learning module it interact file
 
 Then finally to install dependency file then ru first train.py file to training the module and execute the test.py module.
+
+Software Requirements are:
+Pycharm or Visual Studio code
