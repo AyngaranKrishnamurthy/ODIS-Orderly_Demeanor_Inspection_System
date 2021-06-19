@@ -52,7 +52,6 @@ Dependency to install is:
 pip install --upgrade pip
 pip install tensorflow
 pip install opencv-python
-pip install tensorflow
 pip install numpy
 pip install pandas
 pip install keras
